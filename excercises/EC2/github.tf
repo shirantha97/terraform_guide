@@ -9,7 +9,6 @@
 
 # provider "github" {
 #   owner = "github"
-#   token = "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"
 # }
 
 # resource "github_repository" "terraform-testings" {
